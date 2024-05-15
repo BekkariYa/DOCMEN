@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE courses SYSTEM "ex07.dtd" >
+
+
+
+<courses>
+    <coure numéro="c8">
+        <gagnant temps="35">Dupont</gagnant>
+        <second>durand</second>
+        <les_arbitres>
+            <arbitre1 nom="TMartinT"/>
+            <arbitre2 nom="TLegrandT"/>
+        </les_arbitres>
+        <debut format_heure="hh:mm">13:00</debut>
+        <fin>13:53</fin>
+    </coure>
+
+    <coure numéro="c9">
+        <gagnant temps="35">Dupont</gagnant>
+        <second>durand</second>
+        <les_arbitres>
+            <arbitre1 nom="TMartinT"/>
+            <arbitre2 nom="TLegrandT"/>
+        </les_arbitres>
+        <debut format_heure="hh:mm">13:00</debut>
+        <fin>13:53</fin>
+    </coure>
+</courses>

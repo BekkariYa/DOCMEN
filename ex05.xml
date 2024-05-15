@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE messages SYSTEM "exo05.dtd" [
+
+]>
+<messages>
+    <message numero="1" date="2021-01-01">
+        <dast >promo2021</dast>
+        <dast bcc="oui">pierre Nerrizc</dast>
+        <coutneu>Bonne annee</coutneu>
+    </message>
+    <message numero="2">
+        <dast>promo2021</dast>
+        <coutneu>Bonne annee</coutneu>
+    </message>
+</messages>

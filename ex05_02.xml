@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="type_here" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ex05_02.xsd">
+    <paragraphe>Contenu du premier paragraphe</paragraphe>
+    <paragraphe>Contenu du deuxième paragraphe</paragraphe>
+</document>

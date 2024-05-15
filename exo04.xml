@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entete>
+<titre></titre>
+<data></data>
+<auteur></auteur>
+<motscles></motscles>
+<resume><paragrghe></paragrghe></resume>
+</entete>
+
+
+<!-- 
+    <?xml version="1.0" encoding="UTF-8"?>
+
+ <entete>
+<titre></titre>
+<data></data>
+<auteur></auteur>
+</entete>   
+-->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personne xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ex2_02.xsd">
+    <nom>Nom de la personne</nom>
+    <prenom>Prénom de la personne</prenom>
+    <dateNaissance>jhkjhkjhk</dateNaissance>
+    <ville>Ville de résidence</ville>
+    <sexe>Sexe de la personne</sexe>
+    <enfants>
+        <nom_complet>Nom complet de l'enfant 1</nom_complet>
+        <nom_complet>Nom complet de l'enfant 2</nom_complet>
+    </enfants>
+</personne>

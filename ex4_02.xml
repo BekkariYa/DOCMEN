@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inscripition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ex4_02.xsd">
+    <ue code="UE_CODE_1">
+        <titre>Titre de l'UE 1</titre>
+        <resume>Résumé de l'UE 1</resume>
+        <inscrit num="ID_ETUDIANT_1" />
+    </ue>
+    <etudiant id="ID_ETUDIANT_1">
+        <nom>Nom de l'étudiant 1</nom>
+        <adresse>Adresse de l'étudiant 1</adresse>
+    </etudiant>
+</inscripition>

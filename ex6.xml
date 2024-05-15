@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cv SYSTEM "exo6.dtd">
+<cv>
+    <etatcivil>
+        <nom></nom>
+        <prenom></prenom>
+        <age></age>
+        <lien></lien>
+    </etatcivil>
+    <formation>
+        <titre></titre>
+        <data></data>
+        <mention></mention>
+        <description></description>
+    </formation>
+</cv>

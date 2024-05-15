@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liver>
+    <titer>
+        Les miserables
+    </titer>
+    <auteur>
+        <prenom>Victor</prenom>
+        <nom>Hugo</nom>
+    </auteur>
+    <Nb_tomes>3</Nb_tomes>
+</liver>

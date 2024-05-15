@@ -1,0 +1,9 @@
+<!ELEMENT personne (nom,prenome,datenic,ville,sexe,enfats)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenome (#PCDATA)>
+<!ELEMENT datenic (#PCDATA)>
+<!ELEMENT ville (#PCDATA)>
+<!ELEMENT sexe (#PCDATA)>
+<!ELEMENT enfats (nom_com+)>
+<!ELEMENT nom_com (#PCDATA)>
+<!ELEMENT nom_com (#PCDATA)>

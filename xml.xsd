@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     >
+    <xs:element name="personne">
+      <xs:complexType mixed="true">
+        <xs:sequence>
+             <xs:element name ="nom" type="xs:string"></xs:element>
+             <xs:element name="prenome" type="xs:string"></xs:element>
+             <xs:element name="datenic" type="xs:date"></xs:element>
+             <xs:element name="ville" type="xs:string"></xs:element>
+             <xs:element name="sexe" type="xs:string"></xs:element>
+             <xs:element name="enfats">
+              <xs:complexType mixed="true">
+                <xs:sequence>
+                  <xs:element name="nom_com" type="xs:string" maxOccurs="2"></xs:element>
+                </xs:sequence>
+              </xs:complexType>
+             </xs:element>
+            
+        </xs:sequence>
+      </xs:complexType>  
+    </xs:element>
+ </xs:schema>   

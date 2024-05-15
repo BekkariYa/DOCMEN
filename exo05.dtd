@@ -1,0 +1,8 @@
+<!ELEMENT messages (message+)>
+    <!ELEMENT message (dast+,coutneu)>
+    <!ATTLIST message numero CDATA #IMPLIED
+                       date CDATA #IMPLIED>
+    <!ELEMENT dast (#PCDATA)>
+    <!ATTLIST dast  bcc   CDATA  #IMPLIED>
+    <!ELEMENT coutneu  (#PCDATA)>
+    

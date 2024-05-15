@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<livre isbn="978-3-16-148410-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="ex01_02.xsd">
+    <titre>Titre du Livre</titre>
+    <auteur idAuteur="1">
+        <nom>Nom de l'Auteur 1</nom>
+        <prenom>Prénom de l'Auteur 1</prenom>
+    </auteur>
+    <auteur idAuteur="2">
+        <nom>Nom de l'Auteur 2</nom>
+        <prenom>Prénom de l'Auteur 2</prenom>
+    </auteur>
+    <presentation>Contenu de la présentation</presentation>
+
+
+</livre>
